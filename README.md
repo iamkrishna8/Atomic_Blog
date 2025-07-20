@@ -69,7 +69,8 @@ Take a visual tour of the **Atomic Blog** UI:
 
 A landing page with all created blogs and a search bar for filtering them by title or content.
 
-> _📷 (Screenshot placeholder — upload and paste the image URL here)_
+> _📷 (<img width="1890" height="886" alt="Screenshot 2025-07-20 121352" src="https://github.com/user-attachments/assets/d00f8fde-6149-4679-b42e-d4136d5bee14" />
+)_
 
 ---
 
@@ -77,7 +78,8 @@ A landing page with all created blogs and a search bar for filtering them by tit
 
 Add a blog using a minimal and intuitive form with live field updates.
 
-> _📷 (Screenshot placeholder — upload and paste the image URL here)_
+> _📷 (<img width="1857" height="883" alt="Screenshot 2025-07-20 121438" src="https://github.com/user-attachments/assets/d6741be3-2871-4e62-9bba-30ab5f343c6f" />
+)_
 
 ---
 
@@ -85,7 +87,8 @@ Add a blog using a minimal and intuitive form with live field updates.
 
 Each blog can be deleted with a single click, updating the UI in real time.
 
-<img width="100%" alt="Blog Delete" src="https://github.com/user-attachments/assets/f3f4ce09-0962-4a7d-8d49-1705c4988df4" />
+<img width="1901" height="799" alt="Screenshot 2025-07-20 121522" src="https://github.com/user-attachments/assets/8d67e317-9b9a-45a9-9ad8-1ebb2bcf6d88" />
+
 
 ---
 
@@ -93,7 +96,8 @@ Each blog can be deleted with a single click, updating the UI in real time.
 
 Persistent theme mode that works across sessions with React state handling.
 
-<img width="100%" alt="Theme Toggle" src="https://github.com/user-attachments/assets/f3f4ce09-0962-4a7d-8d49-1705c4988df4" />
+<img width="1894" height="870" alt="Screenshot 2025-07-20 121450" src="https://github.com/user-attachments/assets/147bfd1a-e6ad-463a-93d1-2f2e34d4a733" />
+
 
 ---
 
