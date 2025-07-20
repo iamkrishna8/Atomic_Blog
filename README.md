@@ -70,7 +70,6 @@ Take a visual tour of the **Atomic Blog** UI:
 A landing page with all created blogs and a search bar for filtering them by title or content.
 
 > _📷 (<img width="1890" height="886" alt="Screenshot 2025-07-20 121352" src="https://github.com/user-attachments/assets/d00f8fde-6149-4679-b42e-d4136d5bee14" />
-)_
 
 ---
 
@@ -79,7 +78,7 @@ A landing page with all created blogs and a search bar for filtering them by tit
 Add a blog using a minimal and intuitive form with live field updates.
 
 > _📷 (<img width="1857" height="883" alt="Screenshot 2025-07-20 121438" src="https://github.com/user-attachments/assets/d6741be3-2871-4e62-9bba-30ab5f343c6f" />
-)_
+
 
 ---
 
